@@ -1,0 +1,15 @@
+Hello everyone!
+
+This is turtle slideshow to send to your significant others in their birthdays if you guys are in a long distant relationship
+
+just go to line 120 and write their name/nickname in [INSERT NAME] part
+
+once you do that save it and open the path in terminal like powershell or command prompt and type "pyinstaller --onefile hbd.py"
+
+this will make it a .exe file making you able to send it to other devices 
+
+be sure to have python language and the modules pyinstaller,turtle modules downloaded 
+
+turtle is pre-downloaded so just go to powershell and type pip install pyinstaller before doing any of this 
+
+Thank you so much for your valuable time and have a good day! :-)
