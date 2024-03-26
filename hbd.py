@@ -117,7 +117,7 @@ def main():
     turtle.bgcolor("cyan")
 
     # First slide: Happy Birthday to Tajie
-    display_text_with_birthday("Happy Birthday Tajie!", 0, 100)
+    display_text_with_birthday("Happy Birthday [Insert name]!", 0, 100)
     # Draw cake
     draw_cake(-100, -200)
     time.sleep(3)
